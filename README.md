@@ -5,4 +5,4 @@ This is a dumping-ground of useful files and utilities for extracting and/or man
 
 To use it, export all your data to export.zip, unzip it and run
 
-xsltproc health-to-csv.xslt.xsl apple_health_export/export.xml> apple-data-all.csv
+```xsltproc health-to-csv.xslt.xsl apple_health_export/export.xml> apple-data-all.csv```
